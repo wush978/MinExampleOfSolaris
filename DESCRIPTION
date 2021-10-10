@@ -1,0 +1,12 @@
+Package: MinExampleOfSolaris
+Type: Package
+Title: Minmal example of segfault on solaris ods
+Version: 0.1.0
+Author: Wush Wu
+Maintainer: Wush Wu <wush978@gmail.com>
+Description: Minmal example of segfault on solaris ods
+License: GPL(>= 3)
+Encoding: UTF-8
+LazyData: true
+Imports: Rcpp (>= 1.0.7)
+LinkingTo: Rcpp
